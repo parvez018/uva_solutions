@@ -1,2 +1,2 @@
 # uva_solutions
-My solutions to the uva problems I solved
+My solutions to the problems I solved in UVA Online Judge
